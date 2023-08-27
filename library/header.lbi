@@ -1,0 +1,31 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<header>
+<!-- Navigation Bar -->
+	<nav class="navbar">
+		<div class="container">
+    		<a href="index.html" class="logo">The Mad Maleficarum LLC.</a>   <!-- Can Insert Image -->
+     			<ul class="nav-links">
+        		<li><a href="index.html">Home</a></li>
+        		<li><a href="pages/about.html">About</a></li>   <!-- Move To Footer -->
+        		<li><a href="pages/contact.html">Contact</a></li>   <!-- Move To Footer -->
+		  													<!-- Include "Legal" In Footer -->
+		  
+        		<li><a href="pages/cart.html">Cart</a></li>
+		  												<!-- Include "Checkout" In Cart Dropdown -->
+		  		<li><a href="pages/account.html">Account</a></li>
+        			<li class="dropdown">
+          			<a href="#" class="dropdown-btn">Categories</a>
+          				<div class="dropdown-content">
+            				<a href="#">Ceramic Mugs</a>
+           		 			<a href="#">Travel Mugs</a>
+            				<a href="#">Apparel</a>
+            				<a href="#">Home Decor</a>
+            				<a href="#">Spell Supplies</a>
+          				</div>
+        		</li>
+					<!-- Add more links as needed -->
+     	 	</ul>
+   		</div>
+	</nav>
+</header>
